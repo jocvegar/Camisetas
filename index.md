@@ -25,7 +25,7 @@
 </li>
 <li>América Ráquel Quan <strong>(L)</strong>
 <ul>
-<li>Jose Carlos Vega R. <strong>(L)</strong>
+<li>Jose Carlos Vega Ráquel <strong>(L)</strong>
 <ul>
 <li>Grazia María Padgett <strong>(M)</strong></li>
 </ul>
