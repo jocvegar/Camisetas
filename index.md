@@ -41,7 +41,7 @@
 <table>
 <thead>
 <tr>
-<th>Tamaños</th>
+<th>Tamaño</th>
 <th>Cantidad</th>
 </tr>
 </thead>
