@@ -3,8 +3,5 @@
 
 ---
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.<br>
-this is a test</p>
-</blockquote>
+<h2 id="hola-mi-gente">Hola mi gente</h2>
 
