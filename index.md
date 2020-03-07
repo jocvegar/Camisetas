@@ -13,7 +13,7 @@
 <li>Xenia Maria Ráquel Pineda <strong>(XL)</strong></li>
 </ul>
 </li>
-<li>Amaparo Ráquel Quan
+<li>Amparo Ráquel Quan
 <ul>
 <li>Mario A. Pineda <strong>(L)</strong></li>
 <li>Andrea Pineda Ráquel <strong>(M)</strong>
