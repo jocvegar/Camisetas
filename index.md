@@ -41,11 +41,15 @@
 <table>
 <thead>
 <tr>
-<th>XL</th>
-<th>1</th>
+<th>Tamaños</th>
+<th>Cantidad</th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>XL</td>
+<td>1</td>
+</tr>
 <tr>
 <td>L</td>
 <td>7</td>
