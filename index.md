@@ -36,7 +36,7 @@
 </li>
 </ul>
 <hr>
-<p>Resumén de tamaños</p>
+<h3 id="resumén-de-tamaños">Resumén de tamaños</h3>
 
 <table>
 <thead>
