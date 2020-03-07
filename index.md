@@ -15,7 +15,6 @@
 </li>
 <li>Amparo Ráquel Quan
 <ul>
-<li>Mario A. Pineda <strong>(L)</strong></li>
 <li>Andrea Pineda Ráquel <strong>(M)</strong>
 <ul>
 <li>Hector Espinal <strong>(L)</strong></li>
@@ -35,6 +34,7 @@
 </ul>
 </li>
 </ul>
+<p><code>*nota: solo las personas con talla al lado de su nombre asistirán, pero dejo los nombres para que sepán como estan relacionados</code></p>
 <hr>
 <h3 id="resumén-de-tamaños">Resumén de tamaños</h3>
 
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td>L</td>
-<td>7</td>
+<td>6</td>
 </tr>
 <tr>
 <td>M</td>
