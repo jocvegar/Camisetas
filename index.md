@@ -10,7 +10,6 @@
 <li>Adolfo Ráquel Quan <strong>(L)</strong>
 <ul>
 <li>Adolfo Ráquel Pineda <strong>(L)</strong></li>
-<li>Xenia Maria Ráquel Pineda <strong>(XL)</strong></li>
 </ul>
 </li>
 <li>Amparo Ráquel Quan
@@ -46,10 +45,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>XL</td>
-<td>1</td>
-</tr>
 <tr>
 <td>L</td>
 <td>6</td>
